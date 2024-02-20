@@ -1,7 +1,0 @@
-{
-"teams":
-[
-{"player1": {"name": "Albert Suarez", "position": "pitcher"}, "player2": {"name": "Alfred Gutierrez", "position": "catcher"}, "player3": {"name": "Aliangel Lopez", "position": "first_base"}, "player4": {"name": "Anthony Vizcaya", "position": "second_base"}, "player5": {"name": "Edwin Fierro", "position": "short_stop"}, "player6": {"name": "Emilio Marquez", "position": "third_base"}, "player7": {"name": "Franklin Dacosta", "position": "left_yard"}, "player8": {"name": "Jesus Vargas", "position": "center_yard"}, "player9": {"name": "Jhoulys Chacin", "position": "right_yard"}},
-{"player1": {"name": "Jose Mujica", "position": "pitcher"}, "player2": {"name": "Joshua Cornielly", "position": "catcher"}, "player3": {"name": "Lazaro Blanco", "position": "first_base"}, "player4": {"name": "Mayckol Guaipe", "position": "second_base"}, "player5": {"name": "Miguel Rodriguez", "position": "short_stop"}, "player6": {"name": "Miguel Socolovich", "position": "third_base"}, "player7": {"name": "Norwith Gudino", "position": "left_yard"}, "player8": {"name": "Ricardo Rodriguez", "position": "center_yard"}, "player9": {"name": "Rito Lugo", "position": "right_yard"}}
-]
-}
