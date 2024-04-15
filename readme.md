@@ -1,0 +1,1 @@
+simple baseball project to check my rusty python skills
