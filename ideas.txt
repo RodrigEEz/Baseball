@@ -1,4 +1,0 @@
-- el exito en el bateo depende de:
-- la eficacia de bateo del bateador en las 3 circunstancias
-- la eficacia del pitcher (en las 3 circunstancias)
-- la probabilidad de la direccion del bateo
